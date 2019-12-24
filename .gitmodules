@@ -1,0 +1,3 @@
+[submodule "new-zealand-birds"]
+	path = new-zealand-birds
+	url = https://github.com/dragonfly-science/new-zealand-birds
